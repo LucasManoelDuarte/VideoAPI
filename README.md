@@ -20,6 +20,6 @@ As seguintes ferramentas foram utilizadas no projeto:
 
 Os testes foram realizados para verificar as respostas das requisições.
 
-https://www.youtube.com/watch?v=nzUdHs56lis
+Clique no emoji para visualizar os testes e resultados <a href="https://www.youtube.com/watch?v=nzUdHs56lis" target="_blank">🎥</a>
 
-Clique no link acima para visualizar os testes.
+OBS.: O vídeo não tem som mesmo.
